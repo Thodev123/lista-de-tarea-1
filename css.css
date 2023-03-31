@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;  
+}
+
+section
+{
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 5px; 
+    padding: 10px;
+    
+}
